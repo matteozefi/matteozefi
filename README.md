@@ -27,9 +27,11 @@ these concepts on top of what's already mandated of me by my own university curr
 I perform under adverse conditions as one cannot hope to see meaningful growth in a perpetual state of comfort.
 
 What I learned whilst studying these concepts is that I seem to really have a knack for boiling down the visual design process into bits and pieces that I then digest and dissect into compartmentalized
-sections which I then tackle in sequence. I love seeing the code I write come to life on the screen in front of me as this really ingrained within me that there is meaning behind what I'm doing, that I am
-creating something from my own thoughts and actualizing them in any way that I so desire and this digitized freedom has only reinforced the idea that this is my true calling above all else. I'm always challenging
-my perspective on problem solving and looking for ways to expand upong things I've previously built or use the old concepts to build something entirely new and this is the beauty of web development to me. There
-is always more that can be done to a web app and the techniques you use in one project will never be rendered entirely obselete as old ideas serve as the framework for creating something new entirely.
+sections which I then tackle in sequence. I love seeing the code I write come to life on the screen in front of me as this really ingrained within me that there is meaning behind what I'm doing. I am essentially
+creating something in which I have full creative agency and I get to actualize that idea in any way that I so desire and this sense of digitized freedom has only reinforced the idea that this is my true calling above all else. I'm always challenging
+my perspective on problem solving and looking for ways to expand upon things I've previously built or use older concepts to build something entirely new and this is the beauty of web development to me. There
+is always more that can be done to a web app and the techniques you use in one project will never be rendered entirely obselete as old ideas serve as the framework for creating something new entirely. All in all,
+I'm ecstatic that sooner rather than later I will get to utilize these ideas in a professional setting and work alongside people to better the user experience as a whole whilst also putting my ideas to the test
+on a scale that seems larger than life to an aspiring web developer such as myself.
 
 
