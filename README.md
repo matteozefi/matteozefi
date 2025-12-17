@@ -16,16 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hi, my name is Matteo Zefi and I am currently a third year Computer Science student enrolled at Wayne State University. Im looking to pursue a career in full-stack web development post-grad. I am currently sitting as a 3.54 GPA and I am more than halfway done with my degree and the university experience has been very humbling to say
-the least and has, if anything, solidified my love for programming and software.
-
-As far as my programming knowledge is concerned I learned a lot of C++ from my school's CS curriculum as that is the main programming language that they teach to underclassmen. I would consider myself 
-an intermediate C++ programmer as I am familiar with all of the basic and a lot of the more advanced syntax that the language has to offer and I've made projects demonstrating my intermediate expertise
-such which were mainly in the form of homework assignments, labs, and projects that were mandated from class to class. What I recently found out over the summer, however, is that I had an innate desire
-and further inclination to study web development and quite possibly pursue a career in this field. This isn't something that is exclusively taught to Computer Science students at my university, however,
-as all of the things that I have learned over the past 4-5 months of studying web development have come from online resources and I've been learning them of my own volition. Trying to balance learning
-these concepts on top of what's already mandated of me by my own university curriculum was definitely a challenge but it was a challenge that I welcomed with open arms as I'm always looking to see how
-I perform under adverse conditions as one cannot hope to see meaningful growth in a perpetual state of comfort.
-
+the least and has, if anything, solidified my love for programming and software. Over the summer I initiated my pivot into web development as this isn't something that is natively taught in my school's CS curriculum and this was very eye opening to say the least.
 What I learned whilst studying these concepts is that I seem to really have a knack for boiling down the visual design process into bits and pieces that I then digest and dissect into compartmentalized
 sections which I then tackle in sequence. I love seeing the code I write come to life on the screen in front of me as this really ingrained within me that there is meaning behind what I'm doing. I am essentially
 creating something in which I have full creative agency and I get to actualize that idea in any way that I so desire and this sense of digitized freedom has only reinforced the idea that this is my true calling above all else. I'm always challenging
