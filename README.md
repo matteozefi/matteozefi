@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 CS Student @ Wayne State University | Graduating 2027 | 3.54 GPA
 
-I'm a third year student who is passionate about full-stack web development. After diving into web-dev over the past summer (outside of my school's curriculum), I discovered I love breaking down visual designs into
+I'm a third year student who is passionate about full-stack web development. After diving into web-dev over this past summer (outside of my school's curriculum), I discovered I love breaking down visual designs into
 modular, digestible components and breathing life into my ideas through code.
 
 Currently Building
