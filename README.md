@@ -21,7 +21,7 @@ modular, digestible components and breathing life into my ideas through code.
 
 Currently Building
 <ul>
-  <li>Interactive web applications with React</li>
+  <li>Interactive web applications with JavaScript</li>
   <li>Projects with a focus with clean UI/UX and practicality</li>
 </ul>
 
