@@ -27,4 +27,6 @@ Currently Building
 
 Tech Stack: HTML | CSS | JavaScript | C++ | Python
 
+I'm excited to refine my problems solving skills and challenge my current perspective and I can't wait to display these skills in a professional setting.
+
 
