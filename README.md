@@ -25,7 +25,7 @@ Currently Building
   <li>Projects with a focus with clean UI/UX and practicality</li>
 </ul>
 
-Tech Stack: HTML | CSS | JavaScript | C++ | Python
+Tech Stack: HTML | CSS | JavaScript | C++ | Python | Java
 
 I'm excited to refine my problems solving skills and challenge my current perspective and I can't wait to display these skills in a professional setting.
 
